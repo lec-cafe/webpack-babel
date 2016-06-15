@@ -6,7 +6,7 @@
 
 ````
 $ npm init
-$ npm i gulp-webpack babel-loader html-loader babel-core  babel-preset-es2015 --save
+$ npm i webpack babel-loader html-loader babel-core  babel-preset-es2015 --save
 ````
 
 2. .gitignore ファイルを作成
